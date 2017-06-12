@@ -1,1 +1,1 @@
-DEFAULT_SENDER = {'quickId': 1}
+DEFAULT_SENDER = {'quickId': 2}

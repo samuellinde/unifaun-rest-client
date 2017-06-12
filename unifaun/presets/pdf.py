@@ -1,7 +1,7 @@
 LASER_A4 = {
     'target4XOffset': 0,
     'target2YOffset': 0,
-    'target1Media': 'laser-ste',
+    'target1Media': 'laser-2a5',
     'target1YOffset': 0,
     'target3YOffset': 0,
     'target2Media': 'laser-a4',
